@@ -1,4 +1,4 @@
-<h1 align="center">Howdy 👋, I'm James</h1>
+<h1 align="center">Howdy 👋</h1>
 <h3 align="center">An IT Engineering student and passionate coder.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
