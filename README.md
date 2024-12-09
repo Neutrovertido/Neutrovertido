@@ -20,8 +20,8 @@ I'm a software & front-end developer. I make all sorts of projects for the world
 I have, however, also done a few projects in Rust, C++ and even Kotlin.
 
 ## 📊 GitHub Stats:
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neutrovertido&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neutrovertido&theme=dark&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neutrovertido&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neutrovertido&theme=dark&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true)  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neutrovertido&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=10)
 
 
